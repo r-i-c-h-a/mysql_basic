@@ -18,7 +18,7 @@
 <br>
 <h3>Update user</h3>
 <code>curl localhost:8080/access/update/{id} -d {enter the parameters you want to update}</code><br>
-<h6>Eg. curl localhost:8080/access/update/1 -d gender=M email=abc@email.com</h6>
+<h6>Eg. curl localhost:8080/access/update/1 -d gender=M -d email=abc@email.com</h6>
 <br>
 
 <h3>Get random quote</h3>
